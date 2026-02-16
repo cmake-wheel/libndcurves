@@ -14,7 +14,7 @@ dependencies = [
 description = "Library for creating smooth cubic splines"
 license = "BSD-3-Clause"
 name = "libndcurves"
-version = "2.1.0"
+version = "2.1.1"
 
 [project.urls]
 changelog = "https://github.com/loco-3d/ndcurves/blob/devel/CHANGELOG.md"

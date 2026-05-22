@@ -1,14 +1,14 @@
 [build-system]
 build-backend = "cmeel"
 requires = [
-  "cmeel-boost[build] ~= 1.89.0",
+  "cmeel-boost[build] ~= 1.90.0",
   "cmeel[build]",
   "libpinocchio[build]"
 ]
 
 [project]
 dependencies = [
-  "cmeel-boost ~= 1.89.0",
+  "cmeel-boost ~= 1.90.0",
   "libpinocchio"
 ]
 description = "Library for creating smooth cubic splines"
